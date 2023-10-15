@@ -1,0 +1,8 @@
+name "gitsummary"
+description "Git summaries"
+authors "dd86k <dd@dax.moe>"
+copyright "Copyright © 2023, dd86k <dd@dax.moe>"
+license "BSD-3-Clause"
+
+targetType "executable"
+mainSourceFile "gitsummary.d"
